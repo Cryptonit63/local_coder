@@ -25,3 +25,4 @@
 Для macOS / Linux выполните команду:
 ```bash
 curl -fsSL https://ollama.ai/install.sh | sh
+
